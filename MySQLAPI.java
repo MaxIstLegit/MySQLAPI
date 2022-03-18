@@ -1,4 +1,4 @@
-
+package de.maxistlegit.core.api;
 
 /*
                 (MySQL-API)
